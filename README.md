@@ -5,10 +5,9 @@ We are a Dubai-based blockchain and artificial intelligence development company 
 ## About Us
 
 - 🌐 Website: [Visit our website](https://xailes.finance/)
-- 📈 Total Supply: 99,00,00,000 XWI
-- 🔥 Pre-mine: 39,00,15,050 XWI
-- 💰 Minting: 59,99,84,950 XWI
-- 📊 Ticker Code: XWI
+- 📈 Total Supply: 999,99,999 XVI
+- 🔥 Pre-mine: 999,99,999 XVI
+- 📊 Ticker Code: XVI
 - Burning Option: Available
 
 ## Projects
