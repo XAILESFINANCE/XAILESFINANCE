@@ -14,7 +14,7 @@ We are a Dubai-based blockchain and artificial intelligence development company 
 
 ### Xailes
 
-Xailes is a utility token that powers a suite of platforms designed to help people navigate the future. It's the backbone of a decentralized ecosystem that includes platforms like Xnavigateur, Xéchanger, Xtendance, and more. The XWI token is minted hourly and has a total supply of 99,00,00,000 tokens.
+Xailes is a utility token that powers a suite of platforms designed to help people navigate the future. It's the backbone of a decentralized ecosystem that includes platforms like Xnavigateur, Xéchanger, Xtendance, and more. The XWI token is minted hourly and has a total supply of 999,99,999 tokens.
 
 ### Xvitesse
 
